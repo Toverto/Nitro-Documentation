@@ -32,7 +32,7 @@
 ## Recources
 
 * [Human-Connection.org](https://human-connection.org)
-* [Staging \(comming soon\)](https://staging.nitro.human-connection.org/)
+* [Staging Environment](https://nitro-staging.human-connection.org/)
 
 ## Translations
 
